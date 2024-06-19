@@ -1,3 +1,4 @@
+# Olá! Eu sou o João Pedro de Souza Pontedura!
 # 💫 About Me:
 🔭 Estou cursando ADS (Analise e desenvolvimento de sistemas)<br>👯 Procurando um estagio <br><br> 
 
