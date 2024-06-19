@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estou cursando ADS (Analise e desenvolvimento de sistemas)<br>👯 Estou procurando um estagio <br><br> 
+🔭 Estou cursando ADS (Analise e desenvolvimento de sistemas)<br>👯 Procurando um estagio <br><br> 
 
 
 ## 🌐 Socials:
