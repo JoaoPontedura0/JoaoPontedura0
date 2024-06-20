@@ -2,12 +2,11 @@
 
 
 # 💫 About Me:
-🔭 Estou cursando ADS (Analise e desenvolvimento de sistemas)
-<br>👯 Procurando um estagio <br><br> 
+Olá, me chamo João Pontedura atualmente estou cursando análise e desenvolvimento de sistemas na instituição Eniac, sou novo na área e tenho muito interesse em aprender e ganhar experiência nesse meio. 
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/joao_pontedura?igsh=MWJqajlua2Vwdzcwdw==)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)(https://www.instagram.com/joao_pontedura?igsh=MWJqajlua2Vwdzcwdw==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-pontedura-233589278) 
 
 # 💻 Tech Stack:
