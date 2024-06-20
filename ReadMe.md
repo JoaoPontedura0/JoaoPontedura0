@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header&text=João+Pontedura&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header&text=João+Pontedura&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 
 # 💫 About Me:
@@ -26,5 +26,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JoaoPontedura0&icon=5&color=1)](https://visitcount.itsvg.in)
+
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
