@@ -1,4 +1,6 @@
-# Olá! Eu sou o João Pedro de Souza Pontedura!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=120&section=header&text=João+Pontedura&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+
 # 💫 About Me:
 🔭 Estou cursando ADS (Analise e desenvolvimento de sistemas)<br>👯 Procurando um estagio <br><br> 
 
