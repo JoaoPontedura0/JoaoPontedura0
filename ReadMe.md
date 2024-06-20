@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Olá, me chamo João Pontedura atualmente estou cursando análise e desenvolvimento de sistemas na instituição Eniac, sou novo na área e tenho muito interesse em aprender e ganhar experiência nesse meio. 
+Meu nome é João Pontedura e estudo Análise e Desenvolvimento de Sistemas na Universidade ENIAC. Estou determinado a aprimorar minhas habilidades, buscando oportunidades para crescer profissionalmente e contribuir significativamente para projetos desafiadores. Tenho Conhecimento em HTML, CSS e JavaScript embora ainda esteja nos estágios iniciais da minha jornada prática. Estou pronto para conectar meu aprendizado e me esforçar muito com entusiasmo e dedicação. 
 
 
 ## 🌐 Socials:
